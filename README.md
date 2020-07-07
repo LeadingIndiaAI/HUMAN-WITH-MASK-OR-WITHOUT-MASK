@@ -1,0 +1,2 @@
+# human-with-mask-or-without-mask
+The project We worked on was 'Human with a mask or Without mask?' using Deep Learning Techniques. we have successfully built a CNN model to detect if a person is wearing a face mask or not. This can be used in numerous applications. Sporting a mask may be necessary for the near future, considering the COVID-19 crisis, and this method to detect if the person wears a face mask may come in handy.
