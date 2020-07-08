@@ -1,0 +1,15 @@
+Dataset drive link:
+https://drive.google.com/drive/folders/15umfSEOHgoTG74Ebx5TAx6tNf7SenHCH
+
+Diverse dataset consisting of 2348 images of people from all age group and
+races is created.
+
+Data class:
+
+Face with mask: 1174
+
+Face without mask: 1174
+
+Data source :
+
+Google Images using Image Downloader extension of Google chrome.
