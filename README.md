@@ -6,3 +6,6 @@ The model was evaluated with the help of accuracy, precision, recall, F1 score a
 
 # Conclusions 
 In this paper, we have presented a CNN based face mask detection system to differentiate people with facemask and people without a face mask. From this experiment, it is concluded that the proposed approach for detecting if the person is wearing a mask or not using the Deep Learning techniques can be efficiently used to develop the face recognition systems.
+
+# favors to
+Nupur Manglic, AYUSH RAGHUWANSHI, Anish Vaidya, Harshita Tiwari, Samyuktha Sivakumar
